@@ -1,0 +1,2 @@
+# pnc
+Prime Number Calculation
